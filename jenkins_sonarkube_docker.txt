@@ -198,6 +198,7 @@ https://github.com/Ashfaque-9x/Scripts/blob/main/DevOps-Project-Using-BitBucket-
 https://bitbucket.org/vtechbox/registration-app/src/main/Kubernetes/deployment.yml
 
 k8s
+added workspace for bits
 
 https://medium.com/@martin.hodges/how-to-create-a-full-featured-kubernetes-platform-for-running-micro-services-c145ab71a2eb
 
